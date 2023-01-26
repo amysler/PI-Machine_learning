@@ -23,3 +23,4 @@
 
 `CONSULTAR CODIGO EN ARCHIVO "EDA"`
 
+[Link al dataset](https://drive.google.com/drive/folders/1nJ9ZMj6E6zh6McC9NwCA6KopfUIOG_1O)
